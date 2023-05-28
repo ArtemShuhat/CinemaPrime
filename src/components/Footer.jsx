@@ -1,14 +1,3 @@
-// import React from "react";
-
-// const Footer = (props) => {
-//   return (
-//     <footer className="footer">
-//       <p>Это футер</p>
-//     </footer>
-//   );
-// };
-
-// export default Footer;
 import React from "react";
 import { RiMovie2Fill } from "react-icons/ri";
 import { Link } from "react-router-dom";
