@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CinemaPrime/static/css/main.0162d980.css",
+    "main.js": "/CinemaPrime/static/js/main.54060c8e.js",
+    "static/media/bgForItem.png": "/CinemaPrime/static/media/bgForItem.a071e15308eb9c8e2f1e.png",
+    "static/media/blurry-gradient-haikei (3).png": "/CinemaPrime/static/media/blurry-gradient-haikei (3).9e0c6bd78272cdb821e7.png",
+    "index.html": "/CinemaPrime/index.html",
+    "main.0162d980.css.map": "/CinemaPrime/static/css/main.0162d980.css.map",
+    "main.54060c8e.js.map": "/CinemaPrime/static/js/main.54060c8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0162d980.css",
+    "static/js/main.54060c8e.js"
+  ]
+}
